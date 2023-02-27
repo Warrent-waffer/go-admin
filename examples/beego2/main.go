@@ -5,7 +5,7 @@ import (
 	"os"
 	"os/signal"
 	"time"
-
+// 
 	_ "github.com/GoAdminGroup/go-admin/adapter/beego2"
 	_ "github.com/GoAdminGroup/go-admin/modules/db/drivers/mysql"
 
